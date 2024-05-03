@@ -11,7 +11,7 @@
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-dark navbarCustom navbar-bg-dark">
-    <a class="navbar-brand" href="<?php echo BASE_URL; ?>index.php">
+    <a class="navbar-brand" href="<?php echo BASE_URL; ?>index.php"></a>
         <img src="<?php echo BASE_URL; ?>assets/img/CCLogo.png" alt="" width="100" height="100">
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav me-auto "> <!--Left side of navbar-->
